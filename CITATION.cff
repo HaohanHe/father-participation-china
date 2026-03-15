@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+title: Father Participation in Family Education - Dataset
+authors:
+  - name: Liu Liyan
+    orcid: 0009-0008-0592-6853
+    affiliation: Qingdao University of Technology
+    email: liuliyan@qut.edu.cn
+  - name: Yang Yafei
+  - name: Wang Yani  
+  - name: Zhang Wenli
+contributors:
+  - name: He Haoran
+    orcid: 0009-0003-8064-2272
+    role: Algorithm Author
+date-released: 2026-03-15
+doi: 10.5281/zenodo.xxxxxx
+repository-code: https://github.com/[YOUR-GITHUB-USERNAME]/father-participation-china
+keywords:
+  - father involvement
+  - family education
+  - parenting
+  - primary school
+  - China
+  - mediation analysis
+  - structural equation modeling
+license: CC-BY-4.0
+abstract: |
+  This dataset contains 1,788 survey questionnaires from parents of 
+  lower-grade primary school students in Eastern China, examining factors 
+  influencing fathers' participation in family education. The dataset 
+  includes 577 father responses and 1,211 mother responses across 14 
+  variables in 5 dimensions (cognitive, familial, occupational, capability, 
+  social). Associated analysis code implements Pearson correlation, multiple 
+  regression, mediation analysis, and effect size calculations.
+  
+  Key findings include:
+  - Cognitive awareness and self-efficacy are the strongest predictors
+  - Education-Involvement Paradox: Lower-educated fathers show higher participation
+  - Self-efficacy mediates 42.5% of cognition-participation relationship
+type: dataset
