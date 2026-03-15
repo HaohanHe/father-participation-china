@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+hff-version: 1.2.0
 title: Father Participation in Family Education - Dataset
 authors:
   - name: Liu Liyan
@@ -9,12 +9,12 @@ authors:
   - name: Wang Yani  
   - name: Zhang Wenli
 contributors:
-  - name: He Haoran
+  - name: He Haohan
     orcid: 0009-0003-8064-2272
     role: Researcher
 date-released: 2026-03-15
 doi: 10.5281/zenodo.19036285
-repository-code: https://github.com/[YOUR-GITHUB-USERNAME]/father-participation-china
+repository-code: https://github.com/HaohanHe/father-participation-china
 keywords:
   - father involvement
   - family education
