@@ -1,5 +1,6 @@
 # Father Participation in Family Education - Dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19036286.svg)](https://doi.org/10.5281/zenodo.19036286)
 ---
 
 ## Dataset Overview
@@ -7,7 +8,7 @@
 | Item | Description |
 |------|-------------|
 | **Title** | Analysis of Factors Influencing Fathers' Participation in Family Education |
-| **Dataset DOI** | [To be assigned - Zenodo] |
+| **Dataset DOI** | [(https://doi.org/10.5281/zenodo.19036286)] |
 | **Created** | 2026 |
 | **Authors** | Liu Liyan (ORCID: 0009-0008-0592-6853), Yang Yafei, Wang Yani, Zhang Wenli |
 | **Algorithm Author** | He Haoran (ORCID: 0009-0003-8064-2272) |
