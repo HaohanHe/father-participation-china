@@ -71,7 +71,7 @@ python moderation_analysis.py
 1. 认知水平和自我效能感是最强的预测因子（r = 0.448、0.423）。
 2. 存在「学历悖论」：学历较低的父亲参与度反而更高。
 3. 自我效能感中介了认知到参与之间 42.5% 的效应。
-4. 夫妻观念一致性（r = 0.267）的影响约为配偶态度支持（r = 0.119）的 2.2 倍。
+4. 夫妻观念一致性（r = 0.295）的影响约为配偶态度支持（r = 0.119）的 2.5 倍。
 5. 调节效应：单位政策支持显著调节工作压力与父亲参与的关系（B = 0.230，p = 0.003，ΔR² = 0.015），起缓冲作用。低政策支持下，工作压力显著抑制参与（B = -0.277，p = 0.005）；中高支持水平下，负面效应减弱到不显著。
 
 调节效应部分用了层次回归（Aiken & West, 1991；Hayes, 2018）、连续变量均值中心化、调节变量 ±1 SD 处的简单斜率分析、Johnson-Neyman 显著性区间，以及 5,000 次 bootstrap 稳健性检验。交互项 B = 0.230（SE = 0.077，β = 0.124，t(567) = 2.997，p = 0.003，95% CI [0.080, 0.381]），f² = 0.016，属于小效应。
@@ -163,7 +163,7 @@ Node.js 製の3本（`scientific_analysis.js`、`sem_analysis.js`、`deep_dive_a
 1. 認知水準と自己効力感が最も強い予測因子でした（r = 0.448、0.423）。
 2. 「学歴パラドックス」が見られました。学歴の低い父親の方が参加度が高いという結果です。
 3. 自己効力感が、認知から参加への経路の42.5%を媒介していました。
-4. 配偶者との教育観の一致（r = 0.267）は、配偶者の態度的支援（r = 0.119）の約2.2倍の影響力を持っていました。
+4. 配偶者との教育観の一致（r = 0.295）は、配偶者の態度的支援（r = 0.119）の約2.5倍の影響力を持っていました。
 5. 調整効果：職場の政策的支援は、仕事のストレスと父親参加の関係を有意に調整していました（B = 0.230、p = 0.003、ΔR² = 0.015）。バッファーとして働き、支援が低い条件では仕事のストレスが参加を有意に下げ（B = -0.277、p = 0.005）、支援が中程度以上では負の効果は有意でなくなりました。
 
 調整効果の分析では、階層的重回帰（Aiken & West, 1991；Hayes, 2018）、連続変数の平均中心化、調整変数の ±1 SD での単純傾向分析、Johnson-Neyman 法による有意領域の特定、5,000回の bootstrap による頑健性確認を行っています。交互作用項は B = 0.230（SE = 0.077、β = 0.124、t(567) = 2.997、p = 0.003、95% CI [0.080, 0.381]）、f² = 0.016 で、小さい効果量です。
@@ -255,7 +255,7 @@ The three Node.js scripts (`scientific_analysis.js`, `sem_analysis.js`, `deep_di
 1. Cognitive awareness and self-efficacy are the strongest predictors (r = 0.448 and 0.423).
 2. An education-involvement paradox appears: fathers with less education report higher participation.
 3. Self-efficacy mediates 42.5% of the cognition-to-participation path.
-4. Spousal consensus on educational values (r = 0.267) carries about 2.2 times the weight of spousal attitudinal support (r = 0.119).
+4. Spousal consensus on educational values (r = 0.295) carries about 2.5 times the weight of spousal attitudinal support (r = 0.119).
 5. Workplace policy support significantly moderates the relationship between work pressure and father participation (B = 0.230, p = 0.003, ΔR² = 0.015), acting as a buffer. Under low support, work pressure significantly suppresses participation (B = -0.277, p = 0.005); at moderate or high support the negative effect shrinks to non-significance.
 
 The moderation block uses hierarchical multiple regression (Aiken & West, 1991; Hayes, 2018), mean-centering of continuous variables, simple slopes at ±1 SD of the moderator, Johnson-Neyman regions of significance, and 5,000-replicate bootstrap checks. The interaction term is B = 0.230 (SE = 0.077, β = 0.124, t(567) = 2.997, p = 0.003, 95% CI [0.080, 0.381]), with f² = 0.016, a small effect.
